@@ -1,0 +1,36 @@
+.main {
+    background-image: url("../images/background.jpg");
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-color: #f5f5f5;
+}
+
+header.masthead .site-heading {
+    color: #212529;
+}
+
+header.masthead .site-heading h1 {
+    font-weight: 500;
+}
+
+.form-control:focus {
+    background: 0 0;
+    outline: 0;
+}
+
+.floating-label-form-group input,
+.floating-label-form-group select {
+    padding: 10px;
+}
+
+header.masthead,
+header.masthead .overlay {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.card {
+    background: #ffffff;
+    border-radius: 0;
+    border: 0;
+}
